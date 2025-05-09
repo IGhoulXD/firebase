@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341419296512",
+    "project_id": "fir-cloud-efd4d",
+    "storage_bucket": "fir-cloud-efd4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341419296512:android:1854ddd4bd668bbdf415e5",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe59L3PfapsAxaDala84cg7M2g0q_MYBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
